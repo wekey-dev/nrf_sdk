@@ -1,0 +1,7 @@
+{
+    "board": "nrf/nrf52840/xtal",
+    "abi_hash": "0x4c478d91",
+    "version": "7f3d85d",
+    "build": "debug",
+    "load_addr": "0x1000"
+}

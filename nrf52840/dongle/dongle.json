@@ -1,0 +1,6 @@
+{
+    "board": "nrf52840dongle/nrf52840",
+    "version": "7f3d85d",
+    "build": "debug",
+    "load_addr": "0x1000"
+}
